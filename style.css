@@ -1,10 +1,27 @@
+
+.infoAbout {
+    width:84px;
+    height:3opx
+
+}
+.infoWorks {
+    width:84px;
+    height:3opx
+
+}
+.infoContacts {
+    width:84px;
+    height:3opx
+
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
 
-  body {
+  main {
     background: #f8fafc;   /* мягкий нейтральный фон, как на скрине (светло-серый/белый) */
     font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Helvetica, sans-serif;
     display: flex;
@@ -137,7 +154,7 @@
     padding: 0;
     box-sizing: border-box;
   }
-  body {
+  main {
       background-color: black;
   }
   h1 {
@@ -153,3 +170,4 @@
   .sec{
       
   }
+
